@@ -84,3 +84,5 @@ const ExampleComponent = () => {
 	);
 };
 ```
+
+<!-- Auto-update: 2025-10-10T19:48:49.585339 -->
